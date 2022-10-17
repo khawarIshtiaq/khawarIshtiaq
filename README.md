@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @khawarIshtiaq
 - 👀 I’m interested in Web 3.0 and Metaverse
-- 🌱 I’m currently learning node and JS
+- 🌱 I’m currently learning by Web 3.0 and Metaverse by Zia Khan sb https://github.com/ziaukhan
 - 💞️ I’m looking to collaborate on Web 3.0 and metaverse
 - 📫 How to reach me https://twitter.com/khawarishtiaq
 
